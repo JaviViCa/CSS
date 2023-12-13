@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+article{
+    border: 1px solid lightgrey;
+    width: 300px;
+    border-radius: 5px;
+}
+section{
+    font-size: larger;
+    border-top: 1px solid lightgrey;
+}
+#image{
+    height: 218px;
+}
+#links{
+    padding: 10px;
+}
+#description{
+    padding: 10px;
+}
+#items{
+    padding: 10px;
+}
