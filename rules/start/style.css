@@ -11,5 +11,5 @@ body {
     width: var(--square);
     height: var(--square);
     background-color: var(--orange);
-    border-radius: var(--square/2);
+    border-radius: calc(var(--square)/2);
 }
