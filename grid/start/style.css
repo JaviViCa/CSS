@@ -8,6 +8,7 @@
     max-width: 300px;
     margin: 0 auto;
     text-align: center;
+    border: 1px solid darkgray;
 }
 .display{
     grid-column: 1 / -1;
@@ -22,7 +23,6 @@
 .btn, .operator, .clear{
     padding: 10px;
     font-size: 20px;
-    border: 1px solid darkgray;
 }
 .btn, .clear{
     background-color: #ffffff;
