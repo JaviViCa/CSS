@@ -50,3 +50,18 @@ button:hover{
     background-color: green;
     color: white;
 }
+.tablet{
+    display: none;
+}
+@media (max-width: 768px) {
+    .full{
+        display: none;
+    }
+    .tablet{
+        display: block;
+    }
+    i img{
+        width: 53px;
+        height: 53px;
+    }
+}
