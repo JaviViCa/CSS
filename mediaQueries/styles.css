@@ -29,9 +29,12 @@ header{
     width: 300px;
     background-color: lightgrey;
     display: inline-flex;
-    justify-content: space-between;
+    justify-content: start;
     align-items: center;
     height: 65px;
+}
+header i{
+    margin-left: 135px;
 }
 .avatar img{
     height: 50px;
